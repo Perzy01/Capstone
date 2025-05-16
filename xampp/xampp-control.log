@@ -1,0 +1,297 @@
+4:45:30 PM  [main] 	Initializing Control Panel
+4:45:30 PM  [main] 	Windows Version:  Enterprise  64-bit
+4:45:30 PM  [main] 	XAMPP Version: 8.0.10
+4:45:30 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+4:45:30 PM  [main] 	You are not running with administrator rights! This will work for
+4:45:30 PM  [main] 	most application stuff but whenever you do something with services
+4:45:30 PM  [main] 	there will be a security dialogue or things will break! So think 
+4:45:30 PM  [main] 	about running this application with administrator rights!
+4:45:30 PM  [main] 	XAMPP Installation Directory: "c:\users\renzy\desktop\capstone\xampp\"
+4:45:30 PM  [main] 	Checking for prerequisites
+4:45:31 PM  [main] 	All prerequisites found
+4:45:31 PM  [main] 	Initializing Modules
+4:45:31 PM  [main] 	The FileZilla module is disabled
+4:45:31 PM  [main] 	The Mercury module is disabled
+4:45:31 PM  [main] 	Starting Check-Timer
+4:45:31 PM  [main] 	Control Panel Ready
+4:45:32 PM  [Apache] 	Attempting to start Apache app...
+4:45:32 PM  [Apache] 	Status change detected: running
+4:45:33 PM  [mysql] 	Attempting to start MySQL app...
+4:45:34 PM  [mysql] 	Status change detected: running
+6:43:44 PM  [mysql] 	Attempting to stop MySQL app...
+6:43:44 PM  [Apache] 	Attempting to stop Apache (PID: 6140)
+6:43:44 PM  [Apache] 	Attempting to stop Apache (PID: 11900)
+6:43:44 PM  [Apache] 	Status change detected: stopped
+6:43:44 PM  [mysql] 	Status change detected: stopped
+6:43:47 PM  [main] 	Deinitializing Modules
+6:43:47 PM  [main] 	Deinitializing Control Panel
+
+6:53:27 PM  [main] 	Initializing Control Panel
+6:53:27 PM  [main] 	Windows Version:  Enterprise  64-bit
+6:53:27 PM  [main] 	XAMPP Version: 8.0.10
+6:53:27 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+6:53:27 PM  [main] 	You are not running with administrator rights! This will work for
+6:53:27 PM  [main] 	most application stuff but whenever you do something with services
+6:53:27 PM  [main] 	there will be a security dialogue or things will break! So think 
+6:53:27 PM  [main] 	about running this application with administrator rights!
+6:53:27 PM  [main] 	XAMPP Installation Directory: "c:\users\renzy\desktop\capstone\xampp\"
+6:53:27 PM  [main] 	Checking for prerequisites
+6:53:27 PM  [main] 	All prerequisites found
+6:53:27 PM  [main] 	Initializing Modules
+6:53:27 PM  [main] 	The FileZilla module is disabled
+6:53:27 PM  [main] 	The Mercury module is disabled
+6:53:27 PM  [main] 	Starting Check-Timer
+6:53:27 PM  [main] 	Control Panel Ready
+6:53:28 PM  [Apache] 	Attempting to start Apache app...
+6:53:29 PM  [mysql] 	Attempting to start MySQL app...
+6:53:29 PM  [Apache] 	Status change detected: running
+6:53:29 PM  [mysql] 	Status change detected: running
+8:31:30 PM  [mysql] 	Attempting to stop MySQL app...
+8:31:30 PM  [mysql] 	Status change detected: stopped
+8:31:31 PM  [Apache] 	Attempting to stop Apache (PID: 2740)
+8:31:31 PM  [Apache] 	Attempting to stop Apache (PID: 8940)
+8:31:31 PM  [Apache] 	Status change detected: stopped
+8:31:31 PM  [main] 	Deinitializing Modules
+8:31:31 PM  [main] 	Deinitializing Control Panel
+
+11:59:37 AM  [main] 	Initializing Control Panel
+11:59:37 AM  [main] 	Windows Version:  Enterprise  64-bit
+11:59:37 AM  [main] 	XAMPP Version: 8.0.10
+11:59:37 AM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+11:59:37 AM  [main] 	You are not running with administrator rights! This will work for
+11:59:37 AM  [main] 	most application stuff but whenever you do something with services
+11:59:37 AM  [main] 	there will be a security dialogue or things will break! So think 
+11:59:37 AM  [main] 	about running this application with administrator rights!
+11:59:37 AM  [main] 	XAMPP Installation Directory: "c:\users\renzy\desktop\capstone\xampp\"
+11:59:37 AM  [main] 	Checking for prerequisites
+11:59:37 AM  [main] 	All prerequisites found
+11:59:37 AM  [main] 	Initializing Modules
+11:59:37 AM  [main] 	The FileZilla module is disabled
+11:59:37 AM  [main] 	The Mercury module is disabled
+11:59:37 AM  [main] 	Starting Check-Timer
+11:59:37 AM  [main] 	Control Panel Ready
+11:59:39 AM  [Apache] 	Attempting to start Apache app...
+11:59:40 AM  [Apache] 	Status change detected: running
+11:59:42 AM  [mysql] 	Attempting to start MySQL app...
+11:59:43 AM  [mysql] 	Status change detected: running
+11:59:45 AM  [mysql] 	Status change detected: stopped
+11:59:45 AM  [mysql] 	Error: MySQL shutdown unexpectedly.
+11:59:45 AM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+11:59:45 AM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+11:59:45 AM  [mysql] 	Press the Logs button to view error logs and check
+11:59:45 AM  [mysql] 	the Windows Event Viewer for more clues
+11:59:45 AM  [mysql] 	If you need more help, copy and post this
+11:59:45 AM  [mysql] 	entire log window on the forums
+11:59:47 AM  [mysql] 	Attempting to start MySQL app...
+11:59:47 AM  [mysql] 	Status change detected: running
+12:14:47 PM  [mysql] 	Attempting to stop MySQL app...
+12:14:47 PM  [mysql] 	Status change detected: stopped
+12:14:48 PM  [Apache] 	Attempting to stop Apache (PID: 15464)
+12:14:48 PM  [Apache] 	Attempting to stop Apache (PID: 15040)
+12:14:48 PM  [Apache] 	Status change detected: stopped
+12:14:49 PM  [main] 	Deinitializing Modules
+12:14:49 PM  [main] 	Deinitializing Control Panel
+
+12:15:00 PM  [main] 	Initializing Control Panel
+12:15:00 PM  [main] 	Windows Version:  Enterprise  64-bit
+12:15:00 PM  [main] 	XAMPP Version: 8.0.10
+12:15:00 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+12:15:00 PM  [main] 	You are not running with administrator rights! This will work for
+12:15:00 PM  [main] 	most application stuff but whenever you do something with services
+12:15:00 PM  [main] 	there will be a security dialogue or things will break! So think 
+12:15:00 PM  [main] 	about running this application with administrator rights!
+12:15:00 PM  [main] 	XAMPP Installation Directory: "c:\users\renzy\desktop\capstone\xampp\"
+12:15:00 PM  [main] 	Checking for prerequisites
+12:15:00 PM  [main] 	All prerequisites found
+12:15:00 PM  [main] 	Initializing Modules
+12:15:00 PM  [main] 	The FileZilla module is disabled
+12:15:00 PM  [main] 	The Mercury module is disabled
+12:15:00 PM  [main] 	Starting Check-Timer
+12:15:00 PM  [main] 	Control Panel Ready
+12:15:01 PM  [mysql] 	Attempting to start MySQL app...
+12:15:01 PM  [mysql] 	Status change detected: running
+12:15:02 PM  [mysql] 	Status change detected: stopped
+12:15:02 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+12:15:02 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+12:15:02 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+12:15:02 PM  [mysql] 	Press the Logs button to view error logs and check
+12:15:02 PM  [mysql] 	the Windows Event Viewer for more clues
+12:15:02 PM  [mysql] 	If you need more help, copy and post this
+12:15:02 PM  [mysql] 	entire log window on the forums
+12:15:08 PM  [mysql] 	Attempting to start MySQL app...
+12:15:08 PM  [mysql] 	Status change detected: running
+12:15:11 PM  [mysql] 	Attempting to stop MySQL app...
+12:15:12 PM  [mysql] 	Status change detected: stopped
+12:15:48 PM  [mysql] 	Attempting to start MySQL app...
+12:15:53 PM  [mysql] 	Attempting to start MySQL app...
+12:15:54 PM  [mysql] 	Status change detected: running
+12:15:55 PM  [mysql] 	Attempting to stop MySQL app...
+12:15:56 PM  [mysql] 	Status change detected: stopped
+12:15:56 PM  [main] 	Deinitializing Modules
+12:15:56 PM  [main] 	Deinitializing Control Panel
+
+12:16:04 PM  [main] 	Initializing Control Panel
+12:16:04 PM  [main] 	Windows Version:  Enterprise  64-bit
+12:16:04 PM  [main] 	XAMPP Version: 8.0.10
+12:16:04 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+12:16:04 PM  [main] 	Running with Administrator rights - good!
+12:16:04 PM  [main] 	XAMPP Installation Directory: "c:\users\renzy\desktop\capstone\xampp\"
+12:16:04 PM  [main] 	Checking for prerequisites
+12:16:04 PM  [main] 	All prerequisites found
+12:16:04 PM  [main] 	Initializing Modules
+12:16:04 PM  [main] 	The FileZilla module is disabled
+12:16:04 PM  [main] 	The Mercury module is disabled
+12:16:04 PM  [main] 	Starting Check-Timer
+12:16:04 PM  [main] 	Control Panel Ready
+12:16:06 PM  [mysql] 	Attempting to start MySQL app...
+12:16:06 PM  [mysql] 	Status change detected: running
+12:16:08 PM  [Apache] 	Attempting to start Apache app...
+12:16:09 PM  [Apache] 	Status change detected: running
+12:16:11 PM  [mysql] 	Attempting to stop MySQL app...
+12:16:11 PM  [mysql] 	Status change detected: stopped
+12:16:12 PM  [Apache] 	Attempting to stop Apache (PID: 16276)
+12:16:12 PM  [Apache] 	Attempting to stop Apache (PID: 11536)
+12:16:12 PM  [Apache] 	Status change detected: stopped
+12:16:19 PM  [Apache] 	Status change detected: running
+12:16:19 PM  [mysql] 	Status change detected: running
+12:16:39 PM  [Apache] 	Status change detected: stopped
+12:16:46 PM  [mysql] 	Attempting to stop MySQL app...
+12:16:46 PM  [mysql] 	Status change detected: stopped
+12:16:48 PM  [main] 	Deinitializing Modules
+12:16:48 PM  [main] 	Deinitializing Control Panel
+
+12:16:53 PM  [main] 	Initializing Control Panel
+12:16:53 PM  [main] 	Windows Version:  Enterprise  64-bit
+12:16:53 PM  [main] 	XAMPP Version: 8.0.10
+12:16:53 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+12:16:53 PM  [main] 	You are not running with administrator rights! This will work for
+12:16:53 PM  [main] 	most application stuff but whenever you do something with services
+12:16:53 PM  [main] 	there will be a security dialogue or things will break! So think 
+12:16:53 PM  [main] 	about running this application with administrator rights!
+12:16:53 PM  [main] 	XAMPP Installation Directory: "c:\users\renzy\desktop\capstone\xampp\"
+12:16:53 PM  [main] 	Checking for prerequisites
+12:16:53 PM  [main] 	All prerequisites found
+12:16:53 PM  [main] 	Initializing Modules
+12:16:53 PM  [main] 	The FileZilla module is disabled
+12:16:53 PM  [main] 	The Mercury module is disabled
+12:16:53 PM  [main] 	Starting Check-Timer
+12:16:53 PM  [main] 	Control Panel Ready
+12:16:54 PM  [mysql] 	Attempting to start MySQL app...
+12:16:54 PM  [mysql] 	Status change detected: running
+12:16:55 PM  [Apache] 	Attempting to start Apache app...
+12:16:55 PM  [Apache] 	Status change detected: running
+12:17:51 PM  [mysql] 	Attempting to stop MySQL app...
+12:17:51 PM  [mysql] 	Status change detected: stopped
+12:17:52 PM  [Apache] 	Attempting to stop Apache (PID: 6980)
+12:17:52 PM  [Apache] 	Attempting to stop Apache (PID: 15556)
+12:17:52 PM  [Apache] 	Status change detected: stopped
+12:18:18 PM  [mysql] 	Attempting to start MySQL app...
+12:18:18 PM  [mysql] 	Status change detected: running
+12:18:20 PM  [Apache] 	Attempting to start Apache app...
+12:18:20 PM  [Apache] 	Status change detected: running
+12:26:08 PM  [mysql] 	Attempting to stop MySQL app...
+12:26:09 PM  [mysql] 	Status change detected: stopped
+12:26:09 PM  [Apache] 	Attempting to stop Apache (PID: 17020)
+12:26:09 PM  [Apache] 	Attempting to stop Apache (PID: 8720)
+12:26:09 PM  [Apache] 	Status change detected: stopped
+12:26:10 PM  [main] 	Deinitializing Modules
+12:26:10 PM  [main] 	Deinitializing Control Panel
+
+12:35:10 PM  [main] 	Initializing Control Panel
+12:35:10 PM  [main] 	Windows Version:  Enterprise  64-bit
+12:35:10 PM  [main] 	XAMPP Version: 8.0.10
+12:35:10 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+12:35:10 PM  [main] 	You are not running with administrator rights! This will work for
+12:35:10 PM  [main] 	most application stuff but whenever you do something with services
+12:35:10 PM  [main] 	there will be a security dialogue or things will break! So think 
+12:35:10 PM  [main] 	about running this application with administrator rights!
+12:35:10 PM  [main] 	XAMPP Installation Directory: "c:\users\renzy\desktop\capstone\xampp\"
+12:35:10 PM  [main] 	Checking for prerequisites
+12:35:10 PM  [main] 	All prerequisites found
+12:35:10 PM  [main] 	Initializing Modules
+12:35:10 PM  [Apache] 	XAMPP Apache is already running on port 80
+12:35:10 PM  [Apache] 	XAMPP Apache is already running on port 443
+12:35:10 PM  [mysql] 	XAMPP MySQL is already running on port 3306
+12:35:10 PM  [main] 	The FileZilla module is disabled
+12:35:10 PM  [main] 	The Mercury module is disabled
+12:35:10 PM  [main] 	Starting Check-Timer
+12:35:10 PM  [main] 	Control Panel Ready
+12:37:12 PM  [mysql] 	Attempting to stop MySQL app...
+12:37:12 PM  [mysql] 	Status change detected: stopped
+12:37:13 PM  [Apache] 	Attempting to stop Apache (PID: 5148)
+12:37:13 PM  [Apache] 	Attempting to stop Apache (PID: 12180)
+12:37:13 PM  [Apache] 	Status change detected: stopped
+12:37:15 PM  [main] 	Deinitializing Modules
+12:37:15 PM  [main] 	Deinitializing Control Panel
+
+12:43:36 PM  [main] 	Initializing Control Panel
+12:43:36 PM  [main] 	Windows Version:  Enterprise  64-bit
+12:43:36 PM  [main] 	XAMPP Version: 8.0.10
+12:43:36 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+12:43:36 PM  [main] 	You are not running with administrator rights! This will work for
+12:43:36 PM  [main] 	most application stuff but whenever you do something with services
+12:43:36 PM  [main] 	there will be a security dialogue or things will break! So think 
+12:43:36 PM  [main] 	about running this application with administrator rights!
+12:43:36 PM  [main] 	XAMPP Installation Directory: "c:\users\renzy\desktop\capstone\xampp\"
+12:43:36 PM  [main] 	Checking for prerequisites
+12:43:36 PM  [main] 	All prerequisites found
+12:43:36 PM  [main] 	Initializing Modules
+12:43:36 PM  [mysql] 	XAMPP MySQL is already running on port 3306
+12:43:36 PM  [main] 	The FileZilla module is disabled
+12:43:36 PM  [main] 	The Mercury module is disabled
+12:43:36 PM  [main] 	Starting Check-Timer
+12:43:36 PM  [main] 	Control Panel Ready
+12:43:37 PM  [Apache] 	Attempting to start Apache app...
+12:43:37 PM  [Apache] 	Status change detected: running
+12:46:12 PM  [mysql] 	Attempting to stop MySQL app...
+12:46:12 PM  [mysql] 	Status change detected: stopped
+12:46:12 PM  [Apache] 	Attempting to stop Apache (PID: 15252)
+12:46:12 PM  [Apache] 	Attempting to stop Apache (PID: 1620)
+12:46:13 PM  [Apache] 	Status change detected: stopped
+12:46:14 PM  [main] 	Deinitializing Modules
+12:46:14 PM  [main] 	Deinitializing Control Panel
+
+12:48:18 PM  [main] 	Initializing Control Panel
+12:48:18 PM  [main] 	Windows Version:  Enterprise  64-bit
+12:48:18 PM  [main] 	XAMPP Version: 8.0.10
+12:48:18 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+12:48:18 PM  [main] 	You are not running with administrator rights! This will work for
+12:48:18 PM  [main] 	most application stuff but whenever you do something with services
+12:48:18 PM  [main] 	there will be a security dialogue or things will break! So think 
+12:48:18 PM  [main] 	about running this application with administrator rights!
+12:48:18 PM  [main] 	XAMPP Installation Directory: "c:\users\renzy\desktop\capstone\xampp\"
+12:48:18 PM  [main] 	Checking for prerequisites
+12:48:18 PM  [main] 	All prerequisites found
+12:48:18 PM  [main] 	Initializing Modules
+12:48:18 PM  [mysql] 	XAMPP MySQL is already running on port 3306
+12:48:18 PM  [main] 	The FileZilla module is disabled
+12:48:18 PM  [main] 	The Mercury module is disabled
+12:48:18 PM  [main] 	Starting Check-Timer
+12:48:18 PM  [main] 	Control Panel Ready
+12:48:19 PM  [mysql] 	Attempting to stop MySQL app...
+12:48:19 PM  [mysql] 	Status change detected: stopped
+12:48:20 PM  [main] 	Deinitializing Modules
+12:48:20 PM  [main] 	Deinitializing Control Panel
+
+1:25:33 PM  [main] 	Initializing Control Panel
+1:25:33 PM  [main] 	Windows Version:  Enterprise  64-bit
+1:25:33 PM  [main] 	XAMPP Version: 8.0.10
+1:25:33 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+1:25:33 PM  [main] 	You are not running with administrator rights! This will work for
+1:25:33 PM  [main] 	most application stuff but whenever you do something with services
+1:25:33 PM  [main] 	there will be a security dialogue or things will break! So think 
+1:25:33 PM  [main] 	about running this application with administrator rights!
+1:25:33 PM  [main] 	XAMPP Installation Directory: "c:\users\renzy\desktop\capstone\xampp\"
+1:25:33 PM  [main] 	Checking for prerequisites
+1:25:33 PM  [main] 	All prerequisites found
+1:25:33 PM  [main] 	Initializing Modules
+1:25:33 PM  [mysql] 	XAMPP MySQL is already running on port 3306
+1:25:33 PM  [main] 	The FileZilla module is disabled
+1:25:33 PM  [main] 	The Mercury module is disabled
+1:25:33 PM  [main] 	Starting Check-Timer
+1:25:33 PM  [main] 	Control Panel Ready
+1:25:34 PM  [mysql] 	Attempting to stop MySQL app...
+1:25:34 PM  [mysql] 	Status change detected: stopped
+1:25:35 PM  [main] 	Deinitializing Modules
+1:25:35 PM  [main] 	Deinitializing Control Panel
+
