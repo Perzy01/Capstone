@@ -276,3 +276,35 @@ sl:warn] [pid 6788:tid 676] AH01909: www.example.com:443:0 server certificate do
 [Fri May 16 13:22:45.879324 2025] [mpm_winnt:notice] [pid 8084:tid 108] AH00422: Parent: Received shutdown signal -- Shutting down the server.
 [Fri May 16 13:22:47.891614 2025] [mpm_winnt:notice] [pid 6788:tid 676] AH00364: Child: All worker threads have exited.
 [Fri May 16 13:22:47.913980 2025] [mpm_winnt:notice] [pid 8084:tid 108] AH00430: Parent: Child process 6788 exited successfully.
+[Fri May 16 14:02:06.348320 2025] [ssl:warn] [pid 15216:tid 632] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 16 14:02:06.399474 2025] [ssl:warn] [pid 15216:tid 632] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 16 14:02:06.424536 2025] [mpm_winnt:notice] [pid 15216:tid 632] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1l PHP/8.0.10 configured -- resuming normal operations
+[Fri May 16 14:02:06.424536 2025] [mpm_winnt:notice] [pid 15216:tid 632] AH00456: Apache Lounge VS16 Server built: Aug 25 2021 12:07:35
+[Fri May 16 14:02:06.424536 2025] [core:notice] [pid 15216:tid 632] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Users/Renzy/Desktop/Capstone/xampp/apache'
+[Fri May 16 14:02:06.428538 2025] [mpm_winnt:notice] [pid 15216:tid 632] AH00418: Parent: Created child process 2064
+Apache server shutdown initiated...
+sl:warn] [pid 2064:tid 676] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 16 14:02:06.984665 2025] [ssl:warn] [pid 2064:tid 676] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 16 14:02:07.007009 2025] [mpm_winnt:notice] [pid 2064:tid 676] AH00354: Child: Starting 150 worker threads.
+[Fri May 16 14:02:17.304406 2025] [php:notice] [pid 2064:tid 2004] [client ::1:60831] Timeout displayed for 1111: 05:00:00 PM, referer: http://localhost/capstone/dashboardd.php
+[Fri May 16 14:02:29.916909 2025] [php:warn] [pid 2064:tid 2004] [client ::1:60842] PHP Warning:  Undefined variable $yearsResult in C:\\Users\\Renzy\\Desktop\\Capstone\\xampp\\htdocs\\capstone\\holidays.php on line 790, referer: http://localhost/capstone/AdminPanel.php
+[Fri May 16 14:02:29.916909 2025] [php:warn] [pid 2064:tid 2004] [client ::1:60842] PHP Warning:  Attempt to read property "num_rows" on null in C:\\Users\\Renzy\\Desktop\\Capstone\\xampp\\htdocs\\capstone\\holidays.php on line 790, referer: http://localhost/capstone/AdminPanel.php
+[Fri May 16 14:02:29.916909 2025] [php:warn] [pid 2064:tid 2004] [client ::1:60842] PHP Warning:  Undefined variable $yearsResult in C:\\Users\\Renzy\\Desktop\\Capstone\\xampp\\htdocs\\capstone\\holidays.php on line 796, referer: http://localhost/capstone/AdminPanel.php
+[Fri May 16 14:02:29.916909 2025] [php:warn] [pid 2064:tid 2004] [client ::1:60842] PHP Warning:  Attempt to read property "num_rows" on null in C:\\Users\\Renzy\\Desktop\\Capstone\\xampp\\htdocs\\capstone\\holidays.php on line 796, referer: http://localhost/capstone/AdminPanel.php
+[Fri May 16 14:02:32.092038 2025] [php:error] [pid 2064:tid 2004] [client ::1:60842] script 'C:/Users/Renzy/Desktop/Capstone/xampp/htdocs/capstone/get_employees.php' not found or unable to stat, referer: http://localhost/capstone/reportemployee.php
+[Fri May 16 14:02:49.472383 2025] [mpm_winnt:notice] [pid 15216:tid 632] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri May 16 14:02:54.095925 2025] [mpm_winnt:notice] [pid 2064:tid 676] AH00364: Child: All worker threads have exited.
+[Fri May 16 14:02:54.118890 2025] [mpm_winnt:notice] [pid 15216:tid 632] AH00430: Parent: Child process 2064 exited successfully.
+[Fri May 16 19:14:07.901665 2025] [ssl:warn] [pid 15944:tid 552] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 16 19:14:07.951634 2025] [ssl:warn] [pid 15944:tid 552] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 16 19:14:08.021634 2025] [mpm_winnt:notice] [pid 15944:tid 552] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1l PHP/8.0.10 configured -- resuming normal operations
+[Fri May 16 19:14:08.021634 2025] [mpm_winnt:notice] [pid 15944:tid 552] AH00456: Apache Lounge VS16 Server built: Aug 25 2021 12:07:35
+[Fri May 16 19:14:08.021634 2025] [core:notice] [pid 15944:tid 552] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Users/Renzy/Desktop/Capstone/xampp/apache'
+[Fri May 16 19:14:08.025634 2025] [mpm_winnt:notice] [pid 15944:tid 552] AH00418: Parent: Created child process 13032
+Apache server shutdown initiated...
+sl:warn] [pid 13032:tid 672] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 16 19:14:08.577666 2025] [ssl:warn] [pid 13032:tid 672] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri May 16 19:14:08.600666 2025] [mpm_winnt:notice] [pid 13032:tid 672] AH00354: Child: Starting 150 worker threads.
+[Fri May 16 19:14:27.583233 2025] [mpm_winnt:notice] [pid 15944:tid 552] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri May 16 19:14:29.598026 2025] [mpm_winnt:notice] [pid 13032:tid 672] AH00364: Child: All worker threads have exited.
+[Fri May 16 19:14:29.636681 2025] [mpm_winnt:notice] [pid 15944:tid 552] AH00430: Parent: Child process 13032 exited successfully.
